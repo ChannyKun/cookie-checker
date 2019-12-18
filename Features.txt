@@ -1,0 +1,23 @@
+Cookie Checker V1 By Vision#5699
+
+Captures--
+
+Username
+Robux
+Tix
+BC Subscription
+Birth Date 
+
+Pin Enabled
+Email Verified
+Phone Verified
+2Factor
+
+Groups
+Group name
+group funds
+group owner or not
+group Link
+
+
+Happy Checking :)
